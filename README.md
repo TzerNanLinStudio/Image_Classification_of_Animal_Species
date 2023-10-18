@@ -1,2 +1,2 @@
 asasdsadsd
-![example2](./image/1.jpg)
+![Image Error](./Image/1.jpg)
