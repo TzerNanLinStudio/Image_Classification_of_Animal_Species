@@ -5,6 +5,7 @@ Online Resource 1 : https://www.runoob.com/markdown/md-tutorial.html
 # 2. Machine Learning Study Resource
 
 Online Resource 1 : https://www.bilibili.com/video/BV16Z4y1i7vv?p=22
+
 Online Resource 2 : https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J
 
 
