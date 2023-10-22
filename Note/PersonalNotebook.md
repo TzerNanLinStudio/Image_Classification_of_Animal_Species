@@ -88,8 +88,8 @@ In the virtual environment, use the following commands to install the necessary 
 ```
 pip install numpy
 pip install pandas
-pip install torch torchvision torchaudio # For CPU version
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 # For GPU version 
+pip install torch torchvision torchaudio # For PyTorch CPU version
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 # For PyTorch GPU version 
 pip install matplotlib
 
 ```
